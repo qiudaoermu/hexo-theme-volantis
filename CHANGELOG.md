@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.4.0](https://github.com/volantis-x/hexo-theme-volantis/compare/v5.3.2...v5.4.0) (2022-06-02)
+
+
+### Features
+
+* **VolantisRequest:** Fetch, POST, Get ([ea98dbc](https://github.com/volantis-x/hexo-theme-volantis/commit/ea98dbcc4c3a9bfc0bf6de452e0da826276ff29c))
+
 ### [5.3.2](https://github.com/volantis-x/hexo-theme-volantis/compare/v5.3.1...v5.3.2) (2022-05-24)
 
 
